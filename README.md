@@ -1,3 +1,5 @@
 # hello-world
-readme-edits
+CSE360 Hello World Git Demo
+=======
+# hello-world
 Avinash Achari
